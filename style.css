@@ -6,7 +6,7 @@ div {
   padding-top: 0%;
 }
 
-h1 {
+p.title {
   font-family: "Nunito Sans", serif;
   font-size: calc(24px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
   color: black;
