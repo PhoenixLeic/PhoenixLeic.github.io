@@ -6,29 +6,20 @@ div {
   padding-top: 0%;
 }
 
-
-a.bio:link {
-  text-decoration: none;
-}
-
-a.bio:hover {
-  background-color: #B8B8FF;
-}
-
-
 a:link {
-  color: black;
+  color: #1F84D6;
+  font-weight: bold;
 }
 
 /* visited link */
 a:visited {
-  color: black;
+  color: #1F84D6;
 }
 
 /* mouse over link */
 a:hover {
-  color: #1F84D6;
-  background-color: #B8B8FF;
+  color: white;
+  background-color: #1F84D6;
 }
 
 /* selected link */
