@@ -1,6 +1,6 @@
-## FTP+screen_share Code of Conduct 1/4/21
+## Online events Code of Conduct 1/4/21
 
-**FTP, screen_share events code of conduct tl;dr:**
+**Online events code of conduct tl;dr:**
 Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can't resolve an issue, contact staff. If you are being a problem, it will be apparent and you'll be asked to leave.
 Based on previous excellent work by others, this is a living code of conduct. This code of conduct applies to all FTP and screen_share spaces both online and off, including our events, Discord channel, and Zoom/Jitsi calls.
 
