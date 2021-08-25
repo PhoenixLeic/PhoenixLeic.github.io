@@ -1,10 +1,10 @@
-## Online events Code of Conduct 1/4/21
+## Phoenix Code of Conduct 1/4/21
 
-**Online events code of conduct tl;dr:**
+**Phoenix code of conduct tl;dr:**
 Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can't resolve an issue, contact staff. If you are being a problem, it will be apparent and you'll be asked to leave.
-Based on previous excellent work by others, this is a living code of conduct. This code of conduct applies to all FTP and screen_share spaces both online and off, including our events, Discord channel, and Zoom/Jitsi calls.
+Based on previous excellent work by others, this is a living code of conduct. This code of conduct applies to all art programme events both online and off, including our events, Discord channel, and Zoom/Jitsi calls.
 
-FTP and screen_share are open events for people from many different backgrounds. We expect all attendees to help make our events enjoyable for everyone, regardless of age, gender, sexuality, religious or ethnic identity, or ability.
+Our events are for people from many different backgrounds. We expect all attendees to help make our events enjoyable for everyone, regardless of age, gender, sexuality, religious or ethnic identity, or ability.
 
 ### All attendees
 Please show respect for all attendees. In particular:
